@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebApiTraining.Data;
 using WebApiTraining.Models;
-
 namespace WebApiTraining.Controllers
 {
     [ApiController]
